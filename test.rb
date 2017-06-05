@@ -1,4 +1,7 @@
 
 "This is my modification!"
 
-puts "Hello, this is John."
+puts "Hello!"
+
+"This a another change to be aware of!"
+
